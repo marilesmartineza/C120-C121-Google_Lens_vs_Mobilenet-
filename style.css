@@ -1,0 +1,125 @@
+  body{
+    font-family: 'Bagel Fat One', cursive; 
+  }
+
+  .heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+  .heading_div{
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 0px;
+  }
+  .heading_div2{
+    font-size: 25px ;
+  }
+  .result_para_tag{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer {
+    position: fixed;
+    font-size: 20px;
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: darkcyan;
+    line-height:2 ;
+    text-align: center;
+ }
+
+ .copy_right_footer:hover{
+  background-color: rgb(109, 148, 254);
+ }
+
+  canvas{
+    border:5px solid rgb(87, 153, 234);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px darkcyan;
+    margin-left: 200px;
+    margin-top: 145px;
+  }
+ 
+  .btn-info{
+    background-color: rgb(39, 167, 139);
+  }
+  
+  .btn-info:hover{
+    background-color: rgb(109, 148, 254);
+  }
+
+  .btn-primary:hover{
+    background-color: darkcyan;
+  }
+
+  #colores{
+    margin-right: 350px;
+  }
+
+  #lens{
+    width: 250px;
+    margin-bottom: 10px;
+  }
+
+  .idk{
+    background-color: rgb(82, 163, 163);
+    width: 90%;
+    border-radius: 10px;
+    height: 40%;
+  }
+
+  .img-responsive{
+    margin-top: 20px;
+    width: 200px;
+  }
+
+  #text{
+    color: darkcyan;
+    font-family: 'Bagel Fat One', cursive; 
+  }
+
+  #text2{
+    margin-left: 50px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+    border-radius: 5%;
+    width: 30%;
+  }
+
+  #text3{
+    font-size: 15px;
+    margin-left: 100px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+    border-radius: 5%;
+    width: 30%;
+  }
+
+  .mini_result{
+    color: white;
+  }
+
+  #text4{
+    color: rgb(12, 84, 84);
+    font-size: 18px;
+    font-family: 'Bagel Fat One', cursive; 
+  }
+
+  #text5{
+    color: rgb(17, 80, 107);
+    font-family: 'Varela Round', sans-serif;
+  }
